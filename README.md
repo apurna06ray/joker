@@ -52,4 +52,4 @@ git clone https://github.com/apurna06ray/joker.git
 
 
 ## AI Declaration:
-I was use copilot in this project for find debugs in my code because this is my first project by using fetch and API.
+I was use copilot in this project for find debugs in my code because this is my first project by using fetch and API. and also use ChatGPT for write readme.
