@@ -4,11 +4,6 @@ A simple and stylish web app that fetches random jokes from an API. If the API f
 
 ---
 
-Example:
-https://apuprna06ray.github.io/joker/
-
----
-
 ## 📸 Preview
 
 A modern glassmorphism-style UI with a button that generates jokes instantly.
@@ -57,4 +52,4 @@ git clone https://github.com/apurna06ray/joker.git
 
 
 ## AI Declaration:
-This project is build whith the help or copilote for finding debugs in my code.
+I was use copilot in this project for find debugs in my code because this is the my first project by using fetch and API.
